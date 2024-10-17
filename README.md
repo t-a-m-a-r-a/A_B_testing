@@ -1,7 +1,7 @@
 
 <div id="badges" >
   <a href="https://github.com/t-a-m-a-r-a/A_B_testing/blob/main/A_B_results_payment.ipynb">
-  A_B_results
+  A_B_results_payment
   </a> 
  </div>  
 В данном проекте был проведен анализ результатов A/B–тестирования гипотезы о введении новой механики оплаты на сайте.
