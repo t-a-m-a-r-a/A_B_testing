@@ -1,6 +1,6 @@
 
 <div id="badges" >
-  <a href="https://github.com/t-a-m-a-r-a/A_B_testing/blob/main/A_B_results.ipynb">
+  <a href="https://github.com/t-a-m-a-r-a/A_B_testing/blob/main/A_B_results_payment.ipynb">
   A_B_results
   </a> 
  </div>  
